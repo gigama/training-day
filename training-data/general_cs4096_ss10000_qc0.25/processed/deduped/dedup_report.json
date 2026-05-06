@@ -1,0 +1,10 @@
+{
+  "input_docs": 7820,
+  "output_docs": 7815,
+  "removed": 5,
+  "method": "minhash_lsh",
+  "num_perm": 128,
+  "bands": 20,
+  "rows_per_band": 5,
+  "approx_jaccard_threshold": 0.549
+}

@@ -1,0 +1,6 @@
+mixture:
+  general: 1.0
+upsample:
+  general: 1.0
+notes: Adjust mixture weights when combining multiple domains. Values are relative
+  proportions; they are normalised at runtime.

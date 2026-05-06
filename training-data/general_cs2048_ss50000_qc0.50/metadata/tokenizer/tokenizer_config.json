@@ -1,0 +1,11 @@
+{
+  "special_tokens": {
+    "pad_token": "<PAD>",
+    "unk_token": "<UNK>",
+    "pad_id": 0,
+    "unk_id": 1
+  },
+  "vocab_size": 10601,
+  "pad_token": "<PAD>",
+  "unk_token": "<UNK>"
+}
