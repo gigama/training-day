@@ -208,3 +208,6 @@ __marimo__/
 
 # Training Data
 !training-data/
+
+# Intermediate cache
+.intermediate

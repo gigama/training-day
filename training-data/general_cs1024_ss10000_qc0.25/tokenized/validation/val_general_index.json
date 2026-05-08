@@ -1,7 +1,7 @@
 {
-  "chunk_count": 25,
+  "chunk_count": 23,
   "tokens_per_chunk": 1024,
-  "total_tokens": 25600,
+  "total_tokens": 23552,
   "dtype": "<class 'numpy.uint32'>",
   "sep_token": 0,
   "chunks": [
@@ -27,9 +27,7 @@
     "val_general_00019.bin",
     "val_general_00020.bin",
     "val_general_00021.bin",
-    "val_general_00022.bin",
-    "val_general_00023.bin",
-    "val_general_00024.bin"
+    "val_general_00022.bin"
   ],
   "domain": "general",
   "split": "validation"

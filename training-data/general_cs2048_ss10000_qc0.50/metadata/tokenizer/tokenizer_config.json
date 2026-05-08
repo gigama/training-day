@@ -5,7 +5,7 @@
     "pad_id": 0,
     "unk_id": 1
   },
-  "vocab_size": 10601,
+  "vocab_size": 4337,
   "pad_token": "<PAD>",
   "unk_token": "<UNK>"
 }
