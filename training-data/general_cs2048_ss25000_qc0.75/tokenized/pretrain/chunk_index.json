@@ -1,7 +1,7 @@
 {
-  "chunk_count": 130,
+  "chunk_count": 129,
   "tokens_per_chunk": 2048,
-  "total_tokens": 266240,
+  "total_tokens": 264192,
   "dtype": "<class 'numpy.uint32'>",
   "sep_token": 0,
   "chunks": [
@@ -133,8 +133,7 @@
     "chunk_00125.bin",
     "chunk_00126.bin",
     "chunk_00127.bin",
-    "chunk_00128.bin",
-    "chunk_00129.bin"
+    "chunk_00128.bin"
   ],
   "domain": "general"
 }
