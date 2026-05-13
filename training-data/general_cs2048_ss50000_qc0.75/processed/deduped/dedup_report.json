@@ -1,7 +1,7 @@
 {
-  "input_docs": 10276,
-  "output_docs": 10275,
-  "removed": 1,
+  "input_docs": 9991,
+  "output_docs": 9991,
+  "removed": 0,
   "method": "minhash_lsh",
   "num_perm": 128,
   "bands": 20,

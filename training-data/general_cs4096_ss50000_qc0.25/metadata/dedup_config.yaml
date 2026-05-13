@@ -3,6 +3,6 @@ bands: 20
 input_docs: 27977
 method: minhash_lsh
 num_perm: 128
-output_docs: 27962
-removed: 15
+output_docs: 27966
+removed: 11
 rows_per_band: 5

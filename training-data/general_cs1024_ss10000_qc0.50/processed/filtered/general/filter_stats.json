@@ -1,8 +1,8 @@
 {
   "input": 28000,
-  "output": 27821,
+  "output": 27798,
   "rejected": {
-    "low_quality": 163,
-    "too_short": 16
+    "low_quality": 187,
+    "too_short": 15
   }
 }

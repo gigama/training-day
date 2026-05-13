@@ -1,8 +1,8 @@
 filter_stats:
   input: 28000
-  output: 10276
+  output: 9991
   rejected:
-    low_quality: 17724
+    low_quality: 18009
 max_chars_per_token: 8.0
 min_chars_per_token: 2.0
 min_quality_score: 0.75

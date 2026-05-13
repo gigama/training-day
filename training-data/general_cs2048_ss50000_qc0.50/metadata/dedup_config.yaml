@@ -1,8 +1,8 @@
 approx_jaccard_threshold: 0.549
 bands: 20
-input_docs: 27821
+input_docs: 27798
 method: minhash_lsh
 num_perm: 128
-output_docs: 27808
-removed: 13
+output_docs: 27787
+removed: 11
 rows_per_band: 5
