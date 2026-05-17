@@ -1,1 +1,1 @@
-{"domain": "general", "shard_count": 2, "shard_size": 25000, "stats": {"total_docs": 28000, "label_1": 28000}}
+{"domain": "general", "shard_count": 1, "shard_size": 25000, "stats": {"total_docs": 22000, "label_1": 22000}}

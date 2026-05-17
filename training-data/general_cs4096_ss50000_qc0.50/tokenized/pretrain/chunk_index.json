@@ -1,7 +1,7 @@
 {
-  "chunk_count": 104,
+  "chunk_count": 83,
   "tokens_per_chunk": 4096,
-  "total_tokens": 425984,
+  "total_tokens": 339968,
   "dtype": "<class 'numpy.uint32'>",
   "sep_token": 0,
   "chunks": [
@@ -87,28 +87,7 @@
     "chunk_00079.bin",
     "chunk_00080.bin",
     "chunk_00081.bin",
-    "chunk_00082.bin",
-    "chunk_00083.bin",
-    "chunk_00084.bin",
-    "chunk_00085.bin",
-    "chunk_00086.bin",
-    "chunk_00087.bin",
-    "chunk_00088.bin",
-    "chunk_00089.bin",
-    "chunk_00090.bin",
-    "chunk_00091.bin",
-    "chunk_00092.bin",
-    "chunk_00093.bin",
-    "chunk_00094.bin",
-    "chunk_00095.bin",
-    "chunk_00096.bin",
-    "chunk_00097.bin",
-    "chunk_00098.bin",
-    "chunk_00099.bin",
-    "chunk_00100.bin",
-    "chunk_00101.bin",
-    "chunk_00102.bin",
-    "chunk_00103.bin"
+    "chunk_00082.bin"
   ],
   "domain": "general"
 }

@@ -1,11 +1,11 @@
 {
   "domain": "general",
-  "total_docs": 27966,
-  "total_tokens": 532375,
-  "avg_tokens": 19.04,
-  "max_tokens": 217,
+  "total_docs": 21975,
+  "total_tokens": 420745,
+  "avg_tokens": 19.15,
+  "max_tokens": 255,
   "min_tokens": 3,
-  "pretrain_chunks": 52,
+  "pretrain_chunks": 42,
   "val_chunks": 3,
-  "generated_at": "2026-05-13T03:32:38.845410+00:00"
+  "generated_at": "2026-05-17T01:41:12.580326+00:00"
 }

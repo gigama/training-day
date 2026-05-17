@@ -1,6 +1,6 @@
 {
-  "input_docs": 27977,
-  "output_docs": 27966,
+  "input_docs": 21986,
+  "output_docs": 21975,
   "removed": 11,
   "method": "minhash_lsh",
   "num_perm": 128,
